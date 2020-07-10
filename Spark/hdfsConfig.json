@@ -1,0 +1,14 @@
+[
+  {
+    "Classification": "hdfs-site",
+    "Properties": {
+      "dfs.support.append":"true"
+    }
+  },
+    {
+    "Classification": "spark",
+    "Properties": {
+      "maximizeResourceAllocation": "true"
+    }
+  }
+]

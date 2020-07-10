@@ -1,0 +1,6 @@
+https://www.slideshare.net/AmazonWebServices/best-practices-for-building-a-data-lake-in-amazon-s3-and-amazon-glacier-with-special-guests-airbnb-viber-stg312-reinvent-2017
+https://www.slideshare.net/AmazonWebServices/data-lake-implementation-processing-and-querying-data-in-place-stg204r1-aws-reinvent-2018
+https://aws.amazon.com/big-data/datalakes-and-analytics/
+https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html
+https://www.smartdatacollective.com/business-and-technological-benefits-of-data-lakes/
+https://cloud.google.com/solutions/build-a-data-lake-on-gcp
