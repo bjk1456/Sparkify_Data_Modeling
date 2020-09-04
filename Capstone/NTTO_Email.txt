@@ -1,0 +1,77 @@
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning Mr. Kelly.
+
+A list of the variables sent to Udacity on June 6, 2018 is attached. I regr=
+et that we do not have access to a dictionary that provides an explanation =
+of the codes used to describe the occupation performed in the United States=
+.
+
+Best regards.
+
+Respectfully,
+Claudia C. Wolfe
+National Travel and Tourism Office (NTTO)
+Mobile Phone: 202.845.6933
+
+Out of Office:
+August 10-11, 2020
+______________________________________
+Claudia C. Wolfe
+email: claudia.wolfe@trade.gov<mailto:claudia.wolfe@trade.gov>
+Mobile Phone: 202.845.6933 | HCHB Phone: 202.482.4555
+Industry and Analysis (I&A)
+National Travel and Tourism Office (NTTO)
+U.S. Department of Commerce | HCHB 10010
+1401 Constitution Avenue NW | Washington, DC 20230
+Web Site: https://nam10.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F%=
+2Ftravel.trade.gov%2F&amp;data=3D02%7C01%7C%7C3b24c524cb224681f06408d83accf=
+3d5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323999398117899&amp;sda=
+ta=3DBwK7ObcxbTxMR1NVFm9SzBnsI7%2BH9tqxYw5IJ029gEQ%3D&amp;reserved=3D0
+
+
+From: Ben Kelly <Benjamin.J.Kelly@live.com>
+Sent: Thursday, August 6, 2020 4:12 PM
+To: NTTO <NTTO@trade.gov>
+Subject: Question regarding abbreviations for the occup column for I94 Immi=
+gration Data
+
+To Whom It May Concern,
+
+My name is Ben Kelly. I am a student at Udacity and have been tasked with a=
+nalyzing I94 Immigration Data. The "occup" column contains the following, n=
+on-exhaustive, list of values:
+
+
+
+'ELT', 'PHS', 'EXA', 'STU', 'MKT', 'TIP', 'ULS', 'OTH', 'RPT',
+
+'HMK', 'TIE', 'NRR', 'EAG', 'TRA', 'ACN', 'MVC', 'ADM', 'GLS',
+
+'EMC', 'HSV', 'CEO', 'EIN', 'WTR', 'NAW', 'L1M', 'AST', 'EMM',
+
+'ENO', 'TCH', 'PHA', 'TTP', 'RAS', 'TCC', 'ATH', 'ECV', 'RET',
+
+'ECH', 'CMP', 'LLJ', 'CPA', 'ENT', 'REB', 'PRS', 'DDS', 'CHE',
+
+'PRF', 'SCL', 'TTE', 'REL', 'RBC', 'VOC', 'UNP', 'MCH', 'HRN',
+
+'EAS', 'L1E', 'ICA', 'PPS', 'MSC', 'BIL', 'ODS', 'FBP', 'TCN',
+
+'PRD', 'ELE', 'HSW', 'CAN', 'ACH', 'GEN', 'PSY', 'CNS', 'ECO',
+
+'TEC', 'PHY', 'AGR', 'MGR', 'ENP', 'ORS', 'HFM', 'SVC', 'HEH',
+
+'BUG', 'NOT', 'POD', 'RNS', 'EDR', 'PSV', 'MIL', 'DVM', 'SCP',
+
+'REI', 'MOT', 'CLN', 'ENV', 'FLG', 'LAC', 'PHR', 'UNK', 'PSS',
+
+'RHC', 'SCS', '999', '992', '855', 'DOC', 'ASP', 'SLS', '300',
+
+'049', '101', 'MTH'
+Where Can I look up what these abbreviations stand for?
+
+Thanks,
+
+-Ben

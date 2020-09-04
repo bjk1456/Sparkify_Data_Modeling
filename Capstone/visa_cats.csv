@@ -1,0 +1,94 @@
+visatype,visagroup,visacategory
+CW1,CNMI-only transitional workers,Temporary workers and trainees,Temporary workers and their families
+CW2,CSpouses and children of CW1,Temporary workers and trainees,Temporary workers and their families
+H1B,Temporary workers in specialty occupations,Temporary workers and trainees,Temporary workers and their families
+H1B1,Chile and Singapore Free Trade Agreement aliens,Temporary workers and trainees,Temporary workers and their families
+H1C,Registered nurses participating in the Nursing Relief for Disadvantaged Areas,Temporary workers and trainees,Temporary workers and their families
+H2A,Agricultural workers,Temporary workers and trainees,Temporary workers and their families
+H2B,Nonagricultural workers,Temporary workers and trainees,Temporary workers and their families
+H2R,Returning H2B workers,Temporary workers and trainees,Temporary workers and their families
+H3,Trainees,Temporary workers and trainees,Temporary workers and their families
+H4,Spouses and children of H1, H2, or H3,Temporary workers and trainees,Temporary workers and their families
+O1,Workers with extraordinary ability or achievement,Temporary workers and trainees,Temporary workers and their families
+O2,Workers accompanying and assisting in performance of O1 workers,Temporary workers and trainees,Temporary workers and their families
+O3,Spouses and children of O1 and O2,Temporary workers and trainees,Temporary workers and their families
+P1,Internationally recognized athletes or entertainers,Temporary workers and trainees,Temporary workers and their families
+P2,Artists or entertainers in reciprocal exchange programs,Temporary workers and trainees,Temporary workers and their families
+P3,Artists or entertainers in culturally unique programs,Temporary workers and trainees,Temporary workers and their families
+P4,Spouses and children of P1, P2, or P3,Temporary workers and trainees,Temporary workers and their families
+Q1,Workers in international cultural exchange programs,Temporary workers and trainees,Temporary workers and their families
+R1,Workers in religious occupations,Temporary workers and trainees,Temporary workers and their families
+TN,North American Free Trade Agreement (NAFTA) professional workers,Temporary workers and trainees,Temporary workers and their families
+TD,Spouses and children of TN,Temporary workers and trainees,Temporary workers and their families
+L1,Intracompany transferees,Intracompany transferees,Temporary workers and their families
+L2,Spouses and children of L1,Intracompany transferees,Temporary workers and their families
+E1,Treaty traders and their spouses and children,Treaty traders and investors,Temporary workers and their families
+E2,Treaty investors and their spouses and children,Treaty traders and investors,Temporary workers and their families
+E2C,Treaty investors and their spouses and children (CNMI only),Treaty traders and investors,Temporary workers and their families
+E3,Australian Free Trade Agreement principals, spouses and children,Treaty traders and investors,Temporary workers and their families
+E3D,Spouse or Child of E3,Treaty traders and investors,Temporary workers and their families
+E3R,Returning E3,Treaty traders and investors,Temporary workers and their families
+I1,Representatives of foreign information media and spouses and children,Representatives of foreign information media,Temporary workers and their families
+I,Representatives of foreign information media and spouses and children,Representatives of foreign information media,Temporary workers and their families
+F1,Academic students,Temporary workers and trainees,Students and Exchange visitors and their dependents
+F2,Spouses and children of F1,Temporary workers and trainees,Students and Exchange visitors and their dependents
+M1,Vocational students,Temporary workers and trainees,Students and Exchange visitors and their dependents
+M2,Spouses and children of M1,Temporary workers and trainees,Students and Exchange visitors and their dependents
+J1,Exchange visitors,Exchange visitors,Students and Exchange visitors and their dependents
+J2,Spouses and children of J1,Exchange visitors,Students and Exchange visitors and their dependents
+A1,Ambassadors, public ministers, career diplomatic or consular officers and their families,Diplomats and other representatives,Diplomats and other representatives
+A2,Other foreign government officials or employees and their families,Diplomats and other representatives,Diplomats and other representatives
+A3,Attendants, servants, or personal employees of A1 and A2 and their families,Diplomats and other representatives,Diplomats and other representatives
+G1,Principals of recognized foreign governments,Diplomats and other representatives,Diplomats and other representatives
+G2,Other representatives of recognized foreign governments,Diplomats and other representatives,Diplomats and other representatives
+G3,Representatives of nonrecognized or nonmember foreign governments,Diplomats and other representatives,Diplomats and other representatives
+G4,International organization officers or employees,Diplomats and other representatives,Diplomats and other representatives
+G5,Attendants, servants, or personal employees of representatives,Diplomats and other representatives,Diplomats and other representatives
+NATO 1,Principal Permanent Representative of Member State to NATO (including any of its Subsidiary Bodies) Resident in the U.S. and Resident Members of Official Staff; Secretary General, Assistant Secretaries General, and Executive Secretary of NATO; Other Permanent NATO Officials of Similar Rank, or Immediate Family,Diplomats and other representatives,Diplomats and other representatives
+NATO 2,Other Representative of member state to NATO (including any of its Subsidiary Bodies) including Representatives, Advisers, and Technical Experts of Delegations, or Immediate Family; Dependents of Member of a Force Entering in Accordance with the Provisions of the NATO Status-of-Forces Agreement or in Accordance with the provisions of the “Protocol on the Status of International Military Headquarters”; Members of Such a Force if Issued Visas,Diplomats and other representatives,Diplomats and other representatives
+NATO 3,Official Clerical Staff Accompanying Representative of Member State to NATO (including any of its Subsidiary Bodies), or Immediate Family,Diplomats and other representatives,Diplomats and other representatives
+NATO 4,Official of NATO (Other Than Those Classifiable as NATO1), or Immediate Family,Diplomats and other representatives,Diplomats and other representatives
+NATO 5,Experts, Other Than NATO Officials Classifiable Under NATO4, Employed in Missions on Behalf of NATO, and their Dependents,Diplomats and other representatives,Diplomats and other representatives
+NATO 6,Member of a Civilian Component Accompanying a Force Entering in Accordance with the Provisions of the NATO Status-of-Forces Agreement; Member of a Civilian Component Attached to or Employed by an Allied Headquarters Under the “Protocol on the Status of International Military Headquarters” Set Up Pursuant to the North Atlantic Treaty; and their Dependents,Diplomats and other representatives,Diplomats and other representatives
+NATO 7,Attendant, Servant, or Personal Employee of NATO1, NATO2, NATO 3, NATO4, NATO5, and NATO6 Classes, or Immediate Family,Diplomats and other representatives,Diplomats and other representatives
+N8,Parent of an Alien Classified SK3 or SN3,Diplomats and other representatives,Diplomats and other representatives
+N9,Child of N8 or of SK1, SK2, SK4, SN1, SN2 or SN4,Diplomats and other representatives,Diplomats and other representatives
+B2,Temporary visitors for pleasure,Temporary workers and trainees,Temporary visitors for pleasure
+WT,Visa Waiver Program – temporary visitors for pleasure,Temporary workers and trainees,Temporary visitors for pleasure
+GT,Guam Visa Waiver Program – temporary visitors for pleasure to Guam,Temporary workers and trainees,Temporary visitors for pleasure
+GMT,Guam - Commonwealth of Northern Mariana Islands (CNMI) Visa Waiver Program - temporary visitors for pleasure to Guam or Northern Mariana Islands,Temporary workers and trainees,Temporary visitors for pleasure
+B1,Temporary visitors for business,Temporary workers and trainees,Temporary visitors for business
+WB,Visa Waiver Program – temporary visitors for business,Temporary workers and trainees,Temporary visitors for business
+GB,Guam Visa Waiver Program – temporary visitors for business to Guam,Temporary workers and trainees,Temporary visitors for business
+GMB,Guam - Commonwealth of Northern Mariana Islands (CNMI) Visa Waiver Program - temporary visitors for business to Guam or Northern Mariana Islands,Temporary workers and trainees,Temporary visitors for business
+C1,Aliens in continuous and immediate transit through the United States,Transit aliens,Others
+C2,Aliens in transit to the United Nations,Transit aliens,Others
+C3,Foreign government officials, their spouses, children, and attendants in transit,Transit aliens,Others
+F3,Canadian or Mexican national academic commuter students,Commuter students,Others
+M3,Canadian or Mexican national vocational commuter students,Commuter students,Others
+K1,Fiancé(e)s of U.S. citizens,Alien Fiancé(e)s of U.S. citizens and children,Others
+K2,Children of K1,Alien Fiancé(e)s of U.S. citizens and children,Others
+K3,Spouses of U.S. citizens, visa pending,Legal Immigration Family Equity (LIFE) Act,Others
+K4,Children of U.S. citizens, visa pending,Legal Immigration Family Equity (LIFE) Act,Others
+V1,Spouses of permanent residents, visa pending,Legal Immigration Family Equity (LIFE) Act,Others
+V2,Children of permanent residents, visa pending,Legal Immigration Family Equity (LIFE) Act,Others
+V3,Dependents of V1 or V2, visa pending,Legal Immigration Family Equity (LIFE) Act,Others
+C1/D,Combined transit and crewmember visa,Crewmembers,Others
+D,Crewmember (sea or air),Crewmembers,Others
+T1,Victim of a severe form of trafficking in persons,Victim of human trafficking and their dependents,Others
+T2,Spouse of T1,Victim of human trafficking and their dependents,Others
+T3,Child of T1,Victim of human trafficking and their dependents,Others
+T4,Parent of T1,Victim of human trafficking and their dependents,Others
+T5,Unmarried sibling under age 18 of T1,Victim of human trafficking and their dependents,Others
+T6,Adult or minor child of a derivative beneficiary of a T1,Victim of human trafficking and their dependents,Others
+U1,Victim of criminal activity,Victim of criminal activity and their dependents,Others
+U2,Spouse or U1,Victim of criminal activity and their dependents,Others
+U3,Child of U1,Victim of criminal activity and their dependents,Others
+U4,Parent of U1 under 21 years of age,Victim of criminal activity and their dependents,Others
+U5,Unmarried Sibling under age 18 of U1 under 21 years of age,Victim of criminal activity and their dependents,Others
+S5,Certain Aliens Supplying Critical Information Relating to a Criminal Organization or Enterprise,Other,Others
+S6,Certain Aliens Supplying Critical Information Relating to Terrorism,Other,Others
+S7,Qualified Family Member of S5 or S6,Other,Others
+CPL,Unknown,Unknown
+CP,Unknown,Unknown
+SBP,Unknown,Unknown
